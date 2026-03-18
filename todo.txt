@@ -1,7 +1,0 @@
-[ ] Checkbox and radio buttons should be green when active
-[ ] All social icons (all 3 pages) should turn green when hovered over
-[ ] Bottom margin too big on contact page before the copyright stuff
-[ ] Navbar should have a semi-transparent background
-[ ] Some pic of me on index page
-[ ] Bigger margin after "Contact me!" label
-[ ] Should be made for smaller screens aswell (Especially the navbar on index screen bug!!!)
